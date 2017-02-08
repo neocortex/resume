@@ -1,100 +1,102 @@
-Johnny Coder
-============
+Rafael Schultze-Kraft
+=====================
+
+> <skraftr@gmail.com> • +49 (0)178 166 8666 \
+> Hasenheide 56, 10967 Berlin, Germany \
+> [github](https://github.com/neocortex) • [linkedin](https://de.linkedin.com/in/rafael-schultze-kraft-9a044b93)
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+> Data Scientist specialized in data modelling, machine learning, big data, \
+> and software engineering
 
 ----
+
+Professional Experience
+-----------------------
+
+Since Jan 2016
+:   **Data Scientist & Software Engineer at WATTx**, Berlin, Germany
+
+    *Data modelling, machine learning, DevOps, and software engineering tasks in
+    multiple IoT-related projects involving small and big data. Core Technologies:
+    Python, Golang, Docker, AWS, Spark*
+
+Feb 2015 - Dec 2015
+:   **Sofware Developer & Data Scientist at Resmio**, Berlin, Germany
+
+    *Responsible for data modelling/analysis for actionable insights, web development,
+     and using machine learning to build an automatic AdWords system for small and medium
+     sized budgets for the gastronomy sector*
+
+Aug 2013 - Jan 2015
+:   **Data & Research Scientist at Eyequant**, Berlin, Germany
+
+    *Development and improvement of EyeQuant’s attention prediction technology, Development
+    of EyeQuant’s visual clarity prediction technology, Software development, Development of
+    web applications and online experiments, Machine Learning in Python, Advanced data analysis
+    and modelling, Image processing*
+
+Apr 2013 - Jul 2013
+:   **Software Developer Intern at Enthought**, Cambridge, UK
+
+    *Development of an interactive software application for the analysis and visualization
+    of time-series data in Python using Traits, Chaco, and Pandas*
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2009-2013
+:   **MSc, Computational Neuroscience**, Bernstein Center for Computational
+Neuroscience Berlin, Berlin Institute of Technology, Germany
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Thesis: Cooperating Brains: Joint Control of a Dual Brain-Computer-Interface (with distinction)*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2005-2009
+:   **BSc, Cognitive Science**; University of Osnabrueck, Germany
 
-    *Minor: Awesomeology*
+    *Thesis: Cross-Age and Image Category Differences in Visual Attention (with distinction)*
 
-Experience
-----------
+Languages
+---------
 
-**Your Most Recent Work Experience:**
+* German: Mothertongue
+* Spanish: Mothertongue
+* English: Fluent
+* French: Basics
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Technical Skills
+----------------
 
-* First item
+* Advanced programming and machine learning expertise in **Python**
+* Advanced experience with Big Data using **Spark** 
+* Advanced DevOps and infrastructure experience on **AWS**
+* Further language skills: **Golang**, **Matlab**, **R**, **JavaScript**
+* Version Control with **Git / Github**
+* Advanced experience with the **Unix** shell
+* Web development in **Flask**, **JavaScript**, **HTML**, **CSS**
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+Publications
+------------
 
-**That Other Job You Had**
+* Wenzel M, Schultze-Kraft R, Meinecke F, Cardinauxx F, Kemp T, Müller KR, Curio G, Benjamin Blankertz B. *EEG-based usability assessment of 3D shutter glasses*, Journal of Neural Engineering 13:1, 2016, <http://stacks.iop.org/1741-2552/13/i=1/a=016003>
 
-Also with a short description.
+* Schultze-Kraft R\*, Görgen K\*, Wenzel M, Haynes JD, Blankertz B. Cooperating Brains: *Joint Control of a Dual-BCI*, Conference Contribution, International BCI Meeting 2013, Pacific Grove, California, USA, 2013
 
-Technical Experience
---------------------
+* Açik A, Sarwary A, Schultze-Kraft R, Onat S and König P (2010). *Developmental changes innatural viewing behavior: bottom-up and top-down differences between children, young adultsand older adults*, Front. Psychology 1:207. doi: 10.3389/fpsyg.2010.00207
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+#### Further Skills
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+* Languages
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+    * German: Mothertongue
+    * Spanish: Mothertongue
+    * English: Fluent
+    * French: Basics
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <skraftr@gmail.com> • +49 (0)178 166 8666 \
+> Hasenheide 56, 10967 Berlin, Germany \
+> [github](https://github.com/neocortex) • [linkedin](https://de.linkedin.com/in/rafael-schultze-kraft-9a044b93)
