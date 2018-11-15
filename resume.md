@@ -1,8 +1,8 @@
 Rafael Schultze-Kraft
 =====================
 
-> <skraftr@gmail.com> • +49 (0)178 166 8666 \
-> Hasenheide 56, 10967 Berlin, Germany \
+> <rafael@glassnode.com> • +49 123 456 789 \
+> Berlin, Germany \
 > [github](https://github.com/neocortex) • [linkedin](https://de.linkedin.com/in/rafael-schultze-kraft-9a044b93)
 
 ----
@@ -97,6 +97,6 @@ Publications
 
 ----
 
-> <skraftr@gmail.com> • +49 (0)178 166 8666 \
-> Hasenheide 56, 10967 Berlin, Germany \
+> <rafael@glassnode.com> • +49 123 456 789 \
+> Berlin, Germany \
 > [github](https://github.com/neocortex) • [linkedin](https://de.linkedin.com/in/rafael-schultze-kraft-9a044b93)
